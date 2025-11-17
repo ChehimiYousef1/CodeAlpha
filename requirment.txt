@@ -1,0 +1,90 @@
+###############################################################
+# HealthcareAppointmentManagementAPI – Requirements File
+# This file lists all NuGet packages and external requirements
+# needed to run the project successfully.
+###############################################################
+
+==========================
+  CORE FRAMEWORK PACKAGES
+==========================
+Microsoft.NETCore.App (>= 8.0)
+Microsoft.AspNetCore.App (>= 8.0)
+
+==========================
+  ENTITY FRAMEWORK CORE
+==========================
+Microsoft.EntityFrameworkCore (>= 8.0)
+Microsoft.EntityFrameworkCore.SqlServer (>= 8.0)
+Microsoft.EntityFrameworkCore.Tools (>= 8.0)
+Microsoft.EntityFrameworkCore.Design (>= 8.0)
+
+==========================
+  ASP.NET IDENTITY
+==========================
+Microsoft.AspNetCore.Identity.EntityFrameworkCore (>= 8.0)
+Microsoft.AspNetCore.Authentication.JwtBearer (>= 8.0)
+
+==========================
+  AUTOMAPPER
+==========================
+AutoMapper (>= 12.0)
+AutoMapper.Extensions.Microsoft.DependencyInjection (>= 12.0)
+
+==========================
+  VALIDATION
+==========================
+FluentValidation (>= 11.9)
+FluentValidation.AspNetCore (>= 11.9)
+
+==========================
+  SWAGGER / OPENAPI
+==========================
+Swashbuckle.AspNetCore (>= 6.5)
+
+==========================
+  LOGGING
+==========================
+Microsoft.Extensions.Logging (>= 8.0)
+
+==========================
+  MIDDLEWARE
+==========================
+No external NuGet package required for custom exception handling.
+
+==========================
+  EXTERNAL PROVIDERS (OPTIONAL)
+==========================
+Microsoft.AspNetCore.Authentication.Google (>= 8.0)
+Microsoft.AspNetCore.Authentication.MicrosoftAccount (>= 8.0)
+
+==========================
+  JSON SERIALIZATION
+==========================
+System.Text.Json (Included in .NET 8)
+
+==========================
+  CONNECTION STRING REQUIREMENT
+==========================
+The following connection string must be added inside
+'appsettings.json' before running the project:
+
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=HealthcareDB;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
+  }
+}
+
+Replace:
+  YOUR_SERVER_NAME → (localdb)\MSSQLLocalDB  OR  .\SQLEXPRESS  OR your SQL server name.
+
+==========================
+  PACKAGE RESTORE
+==========================
+Before running the project, execute:
+
+dotnet restore
+dotnet ef database update    # optional if migrations exist
+
+###############################################################
+# END OF FILE
+###############################################################
