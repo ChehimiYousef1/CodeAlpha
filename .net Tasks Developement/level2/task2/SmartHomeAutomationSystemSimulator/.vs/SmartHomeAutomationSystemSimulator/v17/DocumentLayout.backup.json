@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251114102348_s00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartHomeAutomationSystemSimulator\\Migrations\\20251114102348_s00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\viewmodels\\smartdeviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\viewmodels\\smartdeviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\services\\smartdeviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\services\\smartdeviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\models\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\models\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\dataseeders\\smartdeviceseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\dataseeders\\smartdeviceseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\controller\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\controller\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\controller\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\controller\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\interface\\ipowerdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\interface\\ipowerdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\interface\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\interface\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\migrations\\20251113131847_smartdevice03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\migrations\\20251113131847_smartdevice03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\migrations\\20251113091735_smartdevice02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\migrations\\20251113091735_smartdevice02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\migrations\\20251113084527_smartdevice00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\migrations\\20251113084527_smartdevice00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\migrations\\20251113091247_smartdevice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\migrations\\20251113091247_smartdevice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|c:\\users\\user\\source\\repos\\smarthomeautomationsystemsimulator\\smarthomeautomationsystemsimulator\\migrations\\20251113083832_smartdevice0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1CD1F0-4D5B-4D14-BFE9-E16417916531}|SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj|solutionrelative:smarthomeautomationsystemsimulator\\migrations\\20251113083832_smartdevice0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251114102348_s00.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251114102348_s00.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Migrations\\20251114102348_s00.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251114102348_s00.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Migrations\\20251114102348_s00.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:23:48.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Error.cshtml",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T17:27:07.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Controller\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Controller\\SmartDevice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Controller\\SmartDevice.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Controller\\SmartDevice.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:52:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAmwO8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T06:44:30.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Models\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Models\\SmartDevice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Models\\SmartDevice.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Models\\SmartDevice.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:01:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T06:45:03.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:32:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:02:44.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251113131847_smartDevice03.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113131847_smartDevice03.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113131847_smartDevice03.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113131847_smartDevice03.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113131847_smartDevice03.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:18:48.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmartDeviceServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Services\\SmartDeviceServices.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Services\\SmartDeviceServices.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Services\\SmartDeviceServices.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Services\\SmartDeviceServices.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:53:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartDeviceSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\DataSeeders\\SmartDeviceSeeder.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\DataSeeders\\SmartDeviceSeeder.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\DataSeeders\\SmartDeviceSeeder.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\DataSeeders\\SmartDeviceSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:47:51.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251113091735_smartDevice02.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113091735_smartDevice02.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113091735_smartDevice02.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113091735_smartDevice02.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113091735_smartDevice02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:17:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Controller\\TestController.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Controller\\TestController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Controller\\TestController.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Controller\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:42:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251113084527_smartDevice00.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113084527_smartDevice00.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113084527_smartDevice00.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113084527_smartDevice00.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113084527_smartDevice00.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:45:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SmartHomeAutomationSystemSimulator.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T06:41:31.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Program.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:38:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251113091247_smartDevice01.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113091247_smartDevice01.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113091247_smartDevice01.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113091247_smartDevice01.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113091247_smartDevice01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:12:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartDeviceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\ViewModels\\SmartDeviceViewModel.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\ViewModels\\SmartDeviceViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\ViewModels\\SmartDeviceViewModel.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\ViewModels\\SmartDeviceViewModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:12:48.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPowerDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Interface\\IPowerDevice.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Interface\\IPowerDevice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Interface\\IPowerDevice.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Interface\\IPowerDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:43:28.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Interface\\IDevice.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Interface\\IDevice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Interface\\IDevice.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Interface\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:41:03.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251113083832_smartDevice0.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113083832_smartDevice0.cs",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113083832_smartDevice0.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Migrations\\20251113083832_smartDevice0.cs",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Migrations\\20251113083832_smartDevice0.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:38:33.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\appsettings.json",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T08:33:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T06:45:06.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T06:44:22.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SmartHomeAutomationSystemSimulator\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartHomeAutomationSystemSimulator\\SmartHomeAutomationSystemSimulator\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "SmartHomeAutomationSystemSimulator\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T06:44:56.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

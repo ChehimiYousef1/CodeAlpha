@@ -1,0 +1,24 @@
+# Entity Framework Core (ORM)
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.Design
+
+# Data Validation
+System.ComponentModel.Annotations
+
+# SQL Server connection provider
+Microsoft.Data.SqlClient
+
+# Database Required
+SQL Server Express or SQL Server Developer Edition
+SQL Server Management Studio (SSMS)
+
+# Required database
+Database Name: StudentDB
+
+# Connection string
+Server=localhost;
+Database=StudentDB;
+Trusted_Connection=True;
+TrustServerCertificate=True;

@@ -1,0 +1,153 @@
+[
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "GetAllDevices",
+    "RelativePath": "api/SmartDevice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "Create",
+    "RelativePath": "api/SmartDevice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SmartHomeAutomationSystemSimulator.ViewModels.SmartDeviceViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SmartHomeAutomationSystemSimulator.ViewModels.SmartDeviceViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "GetById",
+    "RelativePath": "api/SmartDevice/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SmartHomeAutomationSystemSimulator.ViewModels.SmartDeviceViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "Update",
+    "RelativePath": "api/SmartDevice/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SmartHomeAutomationSystemSimulator.ViewModels.SmartDeviceViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "Delete",
+    "RelativePath": "api/SmartDevice/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "GetDeviceForEdit",
+    "RelativePath": "api/SmartDevice/edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomationSystemSimulator.Controllers.SmartDeviceController",
+    "Method": "Search",
+    "RelativePath": "api/SmartDevice/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SmartHomeAutomationSystemSimulator.ViewModels.SmartDeviceViewModel, SmartHomeAutomationSystemSimulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "YourNamespace.Controllers.TestController",
+    "Method": "GetMessage",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
